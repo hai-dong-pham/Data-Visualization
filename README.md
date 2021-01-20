@@ -9,6 +9,6 @@
 [Download the workbook](https://www.dropbox.com/s/df3d9c5deuin1ja/Flight%20Delays.twbx?dl=0)
 
 ![Image of the dashboard](https://github.com/hai-dong-pham/hai-dong-pham.github.io/blob/master/assets/Flight%20Delay/Departures.png)
-                                    Image of the dashboard
+                                                         Image of the dashboard
 
 *Conclusion*: With this dashboard, users can easily and quickly compare performance of major airlines across various airports.
