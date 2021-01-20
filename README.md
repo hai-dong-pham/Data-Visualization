@@ -1,6 +1,6 @@
 # Data-Visualization with Tableau
 
-<font size="+4">**1. Flight Delay**</font>
+<font size="+10">**1. Flight Delay**</font>
 
 *Business problem*: Online travel agencies often want to evaluate and compare performance of the US major airlines so they can offer recommendation to users. This sort of data can be extracted from the U.S. Department of Transporation website but the data set is very large and thus difficult to see insights.
 
