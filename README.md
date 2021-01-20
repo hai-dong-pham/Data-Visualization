@@ -1,6 +1,6 @@
 # Data-Visualization with Tableau
 
-1. Flight Delay
+**1. Flight Delay**
 
 Business problem: Online travel agencies often want to evaluate and compare performance of the US major airlines so they can offer recommendation to users. This sort of data can be extracted from the U.S. Department of Transporation website but the data set is very large and thus difficult to see insights.
 
