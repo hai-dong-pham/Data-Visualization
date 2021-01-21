@@ -13,9 +13,9 @@
 
 *Conclusion*: With this dashboard, users can easily and quickly compare performance of major airlines across various airports.
                                                       
-                           
-
-                     
+<br />                          
+<br />
+<br />                     
                    
 
 <font size="+10">**2. Housing Affordability**</font>
