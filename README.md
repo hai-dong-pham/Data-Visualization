@@ -12,3 +12,17 @@
 <p align="center">Image of the dashboard</p>
 
 *Conclusion*: With this dashboard, users can easily and quickly compare performance of major airlines across various airports.
+
+
+<font size="+10">**1. Housing Affordability**</font>
+
+*Business problem*: First-time homebuyers usually seek for real estate agents’ recommendation or advice. The data on the affordability of housing is always available but agents need to make big data like this one easier for clients to understand, compare and detect patterns.
+
+*Proposed solution*: Data visualization with Tableau is a great tool to achieve this goal.
+
+[Download the workbook](https://www.dropbox.com/s/ie6y5zpox1zx6u4/Housing%20Affordability.twbx?dl=0)
+
+![Image of the dashboard](https://github.com/hai-dong-pham/hai-dong-pham.github.io/blob/master/assets/Housing%20Affordability/affordable-housing.png)
+<p align="center">Image of the dashboard</p>
+
+*Conclusion*: With this dashboard, users can easily get the insights and compare housing affordability across 100 metro areas in the US. Also, real estate agents can quickly input new data and Tableau will automatically update the dashboard.
