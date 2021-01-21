@@ -14,7 +14,11 @@
 *Conclusion*: With this dashboard, users can easily and quickly compare performance of major airlines across various airports.
 
 
-<font size="+10">**1. Housing Affordability**</font>
+
+
+
+
+<font size="+10">**2. Housing Affordability**</font>
 
 *Business problem*: First-time homebuyers usually seek for real estate agents’ recommendation or advice. The data on the affordability of housing is always available but agents need to make big data like this one easier for clients to understand, compare and detect patterns.
 
