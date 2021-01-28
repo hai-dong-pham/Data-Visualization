@@ -24,7 +24,7 @@
 
 *Proposed solution*: Data visualization with Tableau is a great tool to achieve this goal.
 
-[Download the workbook](https://www.dropbox.com/s/ie6y5zpox1zx6u4/Housing%20Affordability.twbx?dl=0)
+[Dashboard](https://public.tableau.com/profile/hai.pham1524#!/vizhome/HousingAffordability_16118048151800/AffordableHousing)
 
 ![Image of the dashboard](https://github.com/hai-dong-pham/hai-dong-pham.github.io/blob/master/assets/Housing%20Affordability/affordable-housing.png)
 <p align="center">Image of the dashboard</p>
