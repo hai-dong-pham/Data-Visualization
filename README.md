@@ -6,7 +6,7 @@
 
 *Proposed solution*: Data visualization provides an accessible way to understand data, see trends and patterns. Tableau dashboard is the way to go.
 
-[Download the workbook](https://public.tableau.com/profile/hai.pham1524#!/vizhome/FlightDelays_16118036171140/Departures)
+[Dashboard](https://public.tableau.com/profile/hai.pham1524#!/vizhome/FlightDelays_16118036171140/Departures)
 
 ![Image of the dashboard](https://github.com/hai-dong-pham/hai-dong-pham.github.io/blob/master/assets/Flight%20Delay/Departures.png)
 <p align="center">Image of the dashboard</p>
